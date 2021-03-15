@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/VincentExplorer/amazona-app/issues"
   },
-  "homepage": "https://github.com/VincentExplorer/amazona-appadme",
+  "homepage": "https://github.com/VincentExplorer/amazona-app",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
